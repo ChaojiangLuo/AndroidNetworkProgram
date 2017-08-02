@@ -1,1 +1,1 @@
-include ':app', ':HttpApache'
+include ':app', ':HttpApache', ':JavaNet'
